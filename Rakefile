@@ -31,6 +31,12 @@ namespace :files do
   task :show, [:file_id] do |t, args|
     ruby "./apis/files/show.rb #{args[:file_id]}" 
   end
+
+  desc "File upload"
+  # rake files:upload
+  task :upload do |t, args|
+    ruby "./apis/files/upload.rb" 
+  end
 end
 
 namespace :finetunes do
@@ -45,5 +51,18 @@ namespace :finetunes do
   task :show, [:fine_tune_id] do |t, args|
     ruby "./apis/finetunes/show.rb #{args[:fine_tune_id]}" 
   end
+
+  desc "Fine-tune model creation"
+  # rake finetunes:create'[file-11UMioqtyrjO565gjerrL875hi]'
+  task :create, [:file_id] do |t, args|
+    ruby "./apis/finetunes/create.rb #{args[:file_id]}" 
+  end
 end
 
+namespace :completion do
+  desc "completion"
+  # rake finetunes:create'[file-11UMioqtyrjO565gjerrL875hi]'
+  task :create, [:model, :prompt] do |t, args|
+    ruby "./apis/completion/create.rb #{args[:model]} #{args[:prompt]}" 
+  end
+end

@@ -21,4 +21,6 @@ class ApiBase
     response = HTTParty.get(@endpoint, :headers => @headers)
     @data = JSON.parse response.body
   end
+
+  
 end

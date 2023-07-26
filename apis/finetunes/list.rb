@@ -8,6 +8,8 @@ class List < ApiBase
 
   def call
     super
+    # puts "==========="
+    # p @data
     if @data["object"] == "list" && @data["data"].present?
       @data["data"].each do |ele|
         puts ele["id"]
