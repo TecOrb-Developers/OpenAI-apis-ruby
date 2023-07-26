@@ -1,0 +1,13 @@
+1. Prepare the knowledge base data into chunks of approximately 2000 words each and save in a text file.
+
+2. Convert each text file into a vector embedding using the OpenAI embeddings endpoint.
+
+3. Save the embeddings and original knowledge based text in a database that we can later query. For this simple example a CSV file will act as the database.
+
+4. Get the question from the user and convert this into its own vector embedding.
+
+5. Compare the question vector against the database and find the knowledge based text which has the closest semantic meaning to the question.
+
+6. Pass the user question and knowledge based text to the GPT-3 completions endpoint with a tailored prompt.
+
+7. Get the response from GPT-3 and display it to the user.

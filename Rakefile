@@ -66,3 +66,15 @@ namespace :completion do
     ruby "./apis/completion/create.rb #{args[:model]} #{args[:prompt]}" 
   end
 end
+
+namespace :embeddings do
+  desc "create embedding"
+  # rake finetunes:create'[file-11UMioqtyrjO565gjerrL875hi]'
+  task :create do |t, args|
+    ruby "./apis/embeddings/create.rb" 
+  end
+  desc "Query from embedded data"
+  task :query do |t, args|
+    ruby "./apis/embeddings/query.rb" 
+  end
+end

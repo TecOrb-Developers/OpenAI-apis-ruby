@@ -21,18 +21,13 @@ GEM
       tzinfo (~> 2.0)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
+    cosine-similarity (1.0.0)
     crass (1.0.6)
     dotenv (2.8.1)
     dotenv-rails (2.8.1)
       dotenv (= 2.8.1)
       railties (>= 3.2)
     erubi (1.12.0)
-    faraday (2.7.4)
-      faraday-net_http (>= 2.0, < 3.1)
-      ruby2_keywords (>= 0.0.4)
-    faraday-multipart (1.0.4)
-      multipart-post (~> 2)
-    faraday-net_http (3.0.2)
     httparty (0.21.0)
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
@@ -45,7 +40,6 @@ GEM
     mini_mime (1.1.2)
     minitest (5.18.0)
     multi_xml (0.6.0)
-    multipart-post (2.3.0)
     nokogiri (1.14.3-x86_64-darwin)
       racc (~> 1.4)
     racc (1.6.2)
@@ -65,10 +59,6 @@ GEM
       thor (~> 1.0)
       zeitwerk (~> 2.5)
     rake (13.0.6)
-    ruby-openai (4.0.0)
-      faraday (>= 1)
-      faraday-multipart (>= 1)
-    ruby2_keywords (0.0.5)
     thor (1.2.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
@@ -78,10 +68,10 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  cosine-similarity
   dotenv-rails
   httparty
   rake
-  ruby-openai
 
 RUBY VERSION
    ruby 3.2.2p53
