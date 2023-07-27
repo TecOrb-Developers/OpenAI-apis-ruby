@@ -3,27 +3,21 @@ require "./apis/api_base.rb"
 class Create < ApiBase
   def initialize(args={})
     super
+    @lang = "es" # "en"
+    @current_dir = File.dirname(__FILE__)
     @endpoint = "https://api.openai.com/v1/embeddings"
   end
 
   def call
-
-    puts courses_in_text_data
-    # @body = {
-    #   "input": "plant based food",
-    #   "model": "text-embedding-ada-002"
-    # }
-    # response = HTTParty.post(@endpoint, :headers => @headers, :body => @body.to_json)
-    # @data = JSON.parse response.body
-    # puts @data
+    vector_embeddings = create_vector_embedding
+    prepare_vector_data_csv(vector_embeddings)
   end
 
   private
-  def courses_in_text_data
-    embedding_array = []
 
-    current_dir = File.dirname(__FILE__)
-    json_file_path = File.join(current_dir, "../../assets/courses_for_embedding.json")
+  def create_vector_embedding
+    embedding_array = []
+    json_file_path = File.join(@current_dir, "../../assets/courses_for_embedding_#{@lang}.json")
 
     json_file = File.open(json_file_path)
     json_data =  JSON.load json_file
@@ -45,7 +39,6 @@ class Create < ApiBase
       }
       response = HTTParty.post(@endpoint, :headers => @headers, :body => @body.to_json)
       @data = JSON.parse response.body
-      puts @data
       embedding = @data['data'][0]['embedding']
 
       # Map embedding with data
@@ -53,8 +46,12 @@ class Create < ApiBase
       embedding_array << embedding_hash
     end
 
+    embedding_array
+  end
+
+  def prepare_vector_data_csv embedding_array
     # Update embeddings CSV
-    CSV.open(File.join(current_dir, "../../assets/embeddings.csv"), "w") do |csv|
+    CSV.open(File.join(@current_dir, "../../assets/embeddings_#{@lang}.csv"), "w") do |csv|
       csv << [:embedding, :text]
       embedding_array.each do |obj|
         csv << [obj[:embedding], obj[:text]]

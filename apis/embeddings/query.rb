@@ -6,7 +6,9 @@ class Query < ApiBase
   def initialize(args={})
     super
     @endpoint = "https://api.openai.com/v1/embeddings"
-    @query = "food for good sleeping"
+    @lang = "en" # "en"
+    # @query = "give me courses which help me for good sleep"
+    @query = "dame cursos que me ayuden a dormir bien"
   end
 
   def call
@@ -27,7 +29,7 @@ class Query < ApiBase
     # the question vector and each text embedding
 
     current_dir = File.dirname(__FILE__)
-    embeddings_file_path = File.join(current_dir, "../../assets/embeddings.csv")
+    embeddings_file_path = File.join(current_dir, "../../assets/embeddings_#{@lang}.csv")
     CSV.foreach(embeddings_file_path, headers: true) do |row|
       # Extract the embedding from the column and parse it back into an Array
       text_embedding =  JSON.parse(row['embedding'])
@@ -37,25 +39,27 @@ class Query < ApiBase
     end
 
     # Return the index of the highest similarity score
-    index_of_max = similarity_array.index(similarity_array.max)
-    # puts similarity_array
-    puts index_of_max
+    # index_of_max = similarity_array.index(similarity_array.max)
+
     # The index_of_max variable now contains the index of the highest similarity score.
     # This can be used to extract the text from the CSV that is needed to send to 
     # GPT-3 along with the users question.
 
+    matching_indexes = closed_matches_indexes(similarity_array, 2)
+
     # Used to store the original text
-    original_text = ""
+    results = {}
 
     # Loop through the CSV and find the text which matches the highest
     # similarity score
     CSV.foreach(embeddings_file_path, headers: true).with_index do |row, rowno|
-      if rowno == index_of_max
-        original_text = row['text']
+      # if rowno == index_of_max
+      if matching_indexes.include?(rowno)
+        results["#{rowno}"] = row['text']
       end
     end
 
-    puts original_text
+    puts matching_indexes.map { |ind| results["#{ind}"] }
   end
 
   private
@@ -75,6 +79,20 @@ class Query < ApiBase
 
   def cosine_similarity vec_a, vec_b
     Cosine.new(vec_a, vec_b).calculate_similarity
+  end
+
+  def closed_matches_indexes(given_arr, fetching_items_count)
+    items_needed = [given_arr.size, fetching_items_count].min
+
+    matching_indexes = []
+    items_arr = given_arr
+    items_needed.times do
+      max_matching_item = items_arr.max
+      matching_indexes << given_arr.index(max_matching_item)
+      items_arr.delete(max_matching_item)
+    end
+
+    return matching_indexes
   end
 end
 

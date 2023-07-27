@@ -1,0 +1,3036 @@
+{
+  "courses":[
+    {
+      "id": 55,
+      "title": "Introducción a una alimentación basada en plantas",
+      "lessons": [
+        {
+          "id": 602,
+          "title": "La dieta basada en plantas"
+        },
+        {
+          "id": 603,
+          "title": "En qué consiste la alimentación basada en plantas."
+        },
+        {
+          "id": 604,
+          "title": "Challenge: Repasemos tus conocimientos "
+        },
+        {
+          "id": 605,
+          "title": "La dieta basada en plantas moderna"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Tipos de alimentación con base en plantas.",
+      "lessons": [
+        {
+          "id": 606,
+          "title": " Diferentes estilos de alimentación"
+        },
+        {
+          "id": 607,
+          "title": "Ovolactovegetariano y flexitariano"
+        },
+        {
+          "id": 608,
+          "title": "Dietas crudas o macrobióticas"
+        },
+        {
+          "id": 609,
+          "title": "Día 4. Challenge: encontremos tu motivación"
+        },
+        {
+          "id": 610,
+          "title": "Un bien común"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Implicaciones del trabajo remoto",
+      "lessons": [
+        {
+          "id": 15,
+          "title": "Más contrastes entre tradicional y remoto"
+        },
+        {
+          "id": 111,
+          "title": "Challenge"
+        },
+        {
+          "id": 121,
+          "title": "Challenge"
+        },
+        {
+          "id": 117,
+          "title": "Mentalidad del trabajador remoto"
+        },
+        {
+          "id": 116,
+          "title": "Cambios que es necesarios que adoptes"
+        },
+        {
+          "id": 118,
+          "title": "Challenge"
+        },
+        {
+          "id": 112,
+          "title": "Nociones sobre el trabajo remoto"
+        },
+        {
+          "id": 113,
+          "title": "Un panorama distinto"
+        },
+        {
+          "id": 115,
+          "title": "Formas de trabajo remoto"
+        },
+        {
+          "id": 114,
+          "title": "El trabajo remoto está para quedarse"
+        },
+        {
+          "id": 119,
+          "title": "Para principiantes del trabajo a distancia"
+        },
+        {
+          "id": 14,
+          "title": "Diferencias entre modalidades de trabajo"
+        },
+        {
+          "id": 120,
+          "title": "Últimas recomendaciones"
+        },
+        {
+          "id": 13,
+          "title": "Trabajo remoto vs tradicional"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Veganismo",
+      "lessons": [
+        {
+          "id": 611,
+          "title": "Qué es el veganismo"
+        },
+        {
+          "id": 612,
+          "title": "Basado en plantas vs. Vegano"
+        },
+        {
+          "id": 613,
+          "title": "Suplementación y medicamentos"
+        },
+        {
+          "id": 614,
+          "title": "Ética y ecología en la alimentación basada en plantas"
+        },
+        {
+          "id": 615,
+          "title": "Las plantas están de moda"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Organizando y planeando menús",
+      "lessons": [
+        {
+          "id": 53,
+          "title": " Importancia de planear tus comidas "
+        },
+        {
+          "id": 54,
+          "title": " Organiza tu presupuesto"
+        },
+        {
+          "id": 55,
+          "title": "Rotación de alimentos"
+        },
+        {
+          "id": 56,
+          "title": "Cómo conservar los alimentos"
+        },
+        {
+          "id": 57,
+          "title": "Conociendo el meal planning I"
+        },
+        {
+          "id": 58,
+          "title": "Elabora el menú de la próxima semana"
+        },
+        {
+          "id": 374,
+          "title": "Consejos para organizar tu presupuesto"
+        },
+        {
+          "id": 376,
+          "title": "Conociendo el meal planning II"
+        },
+        {
+          "id": 375,
+          "title": "Beneficios de rotar alimentos"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Organizando tus compras ",
+      "lessons": [
+        {
+          "id": 62,
+          "title": "Elaborando una lista de compras"
+        },
+        {
+          "id": 59,
+          "title": "¡Vámonos de compras!"
+        },
+        {
+          "id": 60,
+          "title": "¿Qué son los alimentos orgánicos y los sustentables o ecológicos? "
+        },
+        {
+          "id": 61,
+          "title": "Conociendo a la docena sucia y los quince limpios"
+        },
+        {
+          "id": 377,
+          "title": "Aprende a elegir productos sostenibles."
+        },
+        {
+          "id": 378,
+          "title": "Conociendo a la docena sucia y los quince limpios p.2"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Meriendas saludables",
+      "lessons": [
+        {
+          "id": 63,
+          "title": "¿Es necesario merendar? "
+        },
+        {
+          "id": 64,
+          "title": "Cómo elegir snacks saludables"
+        },
+        {
+          "id": 65,
+          "title": "Challenge: preparando snacks"
+        },
+        {
+          "id": 66,
+          "title": "SOS, comprando de emergencia"
+        },
+        {
+          "id": 67,
+          "title": "Repaso del módulo"
+        },
+        {
+          "id": 380,
+          "title": "Comprando de emergencia p.2"
+        },
+        {
+          "id": 379,
+          "title": "Cuando si es bueno merendar"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Comiendo fuera de casa ",
+      "lessons": [
+        {
+          "id": 73,
+          "title": "Actividad: visita tu restaurante preferido."
+        },
+        {
+          "id": 68,
+          "title": "Pierde el miedo a comer fuera de casa"
+        },
+        {
+          "id": 69,
+          "title": "Tips para asistir a reuniones"
+        },
+        {
+          "id": 70,
+          "title": "Tips para restaurantes "
+        },
+        {
+          "id": 71,
+          "title": "Challenge: analizando menus de restaurantes"
+        },
+        {
+          "id": 72,
+          "title": " Beber o no beber alcohol "
+        },
+        {
+          "id": 382,
+          "title": "Qué hacer cuando visitas una casa"
+        },
+        {
+          "id": 381,
+          "title": "No más estrés por un compromiso social."
+        },
+        {
+          "id": 383,
+          "title": "Tips para restaurantes p.2"
+        },
+        {
+          "id": 384,
+          "title": "Cuando el consumo se vuelve exceso. "
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Importancia del ejercicio",
+      "lessons": [
+        {
+          "id": 74,
+          "title": "Hacer ejercicio: si o si"
+        },
+        {
+          "id": 75,
+          "title": "Beneficios del ejercicio cardiovascular"
+        },
+        {
+          "id": 76,
+          "title": "Beneficios del entrenamiento de fuerza"
+        },
+        {
+          "id": 77,
+          "title": "Challenge: escoge tu próxima actividad favorita"
+        },
+        {
+          "id": 78,
+          "title": "Tips para ejercitarte en viajes"
+        },
+        {
+          "id": 385,
+          "title": "No más pretextos"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Importancia de la hidratación ",
+      "lessons": [
+        {
+          "id": 79,
+          "title": "El agua y su importancia"
+        },
+        {
+          "id": 80,
+          "title": "Problemas causados por deshidratación"
+        },
+        {
+          "id": 81,
+          "title": "Tips para mejorar tu consumo de agua"
+        },
+        {
+          "id": 82,
+          "title": "Agua purificada en botella o filtro en casa ¿cuál es mejor? "
+        },
+        {
+          "id": 83,
+          "title": "Challenge: midiendo tu consumo "
+        },
+        {
+          "id": 386,
+          "title": "El mito del agua alcalina"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Las emociones y la comida ",
+      "lessons": [
+        {
+          "id": 84,
+          "title": "El hambre emocional "
+        },
+        {
+          "id": 85,
+          "title": " El estrés y la ansiedad"
+        },
+        {
+          "id": 86,
+          "title": "Challenge: conociendo tus disparadores"
+        },
+        {
+          "id": 87,
+          "title": "Técnicas para lidiar con el estrés y ansiedad 1"
+        },
+        {
+          "id": 388,
+          "title": "Técnicas para lidiar con el estrés y ansiedad 2"
+        },
+        {
+          "id": 387,
+          "title": "Los efectos del estrés y la ansiedad en tu salud. "
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Dormir bien para el manejo de peso",
+      "lessons": [
+        {
+          "id": 88,
+          "title": "Dormir bien para la salud física y mental"
+        },
+        {
+          "id": 89,
+          "title": "Challenge: analizando tus horas de sueño"
+        },
+        {
+          "id": 90,
+          "title": "Técnicas para mejorar la calidad del sueño"
+        },
+        {
+          "id": 91,
+          "title": "Suplementación para dormir mejor"
+        },
+        {
+          "id": 92,
+          "title": "¡A dormir bien! "
+        },
+        {
+          "id": 390,
+          "title": "El mineral de moda: magnesio"
+        },
+        {
+          "id": 389,
+          "title": "Las hormonas y el sueño."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Alimentación consciente e intuitiva",
+      "lessons": [
+        {
+          "id": 93,
+          "title": "Qué es la alimentación consciente"
+        },
+        {
+          "id": 110,
+          "title": "Manejando la culpa "
+        },
+        {
+          "id": 94,
+          "title": "Qué es la alimentación intuitiva"
+        },
+        {
+          "id": 96,
+          "title": "El auto control te empodera"
+        },
+        {
+          "id": 391,
+          "title": "Cuidarte es amarte, nutrirte es respetarte."
+        },
+        {
+          "id": 392,
+          "title": "Challenge: analizando tus antojos y su origen"
+        },
+        {
+          "id": 95,
+          "title": "Challenge: identificando tus antojos"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Conociendo otros tipos de alimentación",
+      "lessons": [
+        {
+          "id": 97,
+          "title": "La alimentación es personalizada"
+        },
+        {
+          "id": 98,
+          "title": "Conociendo la alimentación basada en plantas"
+        },
+        {
+          "id": 99,
+          "title": "La alimentación cetogénica y el ayuno intermitente, ¿es solo una moda?"
+        },
+        {
+          "id": 100,
+          "title": "Challenge: escogiendo lo que es para ti"
+        },
+        {
+          "id": 101,
+          "title": "Rompiendo mitos sobre los diversos tipos de alimentación 1"
+        },
+        {
+          "id": 405,
+          "title": "La dieta ideal "
+        },
+        {
+          "id": 406,
+          "title": "Beneficios de la alimentación basada en plantas "
+        },
+        {
+          "id": 407,
+          "title": "Beneficios de la dieta cetogénica "
+        },
+        {
+          "id": 408,
+          "title": "Beneficios del ayuno intermitente "
+        },
+        {
+          "id": 409,
+          "title": "Rompiendo mitos sobre los diversos tipos de alimentación 2"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "¿Cómo mejorar mis vínculos familiares?",
+      "lessons": [
+        {
+          "id": 630,
+          "title": "¿Cómo se construye el vínculo familiar?"
+        },
+        {
+          "id": 631,
+          "title": "¿Cómo reconocer vínculos familiares débiles o dañados?"
+        },
+        {
+          "id": 632,
+          "title": "¿Por qué se producen relaciones familiares conflictivas?"
+        },
+        {
+          "id": 634,
+          "title": "¿Cómo se pueden mejorar o fortalecer las relaciones familiares?"
+        },
+        {
+          "id": 636,
+          "title": "Encontrando el equilibrio, aceptando límites"
+        },
+        {
+          "id": 627,
+          "title": "La importancia de las relaciones familiares"
+        },
+        {
+          "id": 628,
+          "title": "¿Cómo influyen las relaciones familiares en las distintas esferas de la vida?"
+        },
+        {
+          "id": 629,
+          "title": "Actividad: ¿Cómo es la relación con tu familia?"
+        },
+        {
+          "id": 633,
+          "title": "Actividad: Reflexiona sobre tus pensamientos, emociones y conductas"
+        },
+        {
+          "id": 635,
+          "title": "Actividad: Desafía tus pensamientos"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Llegamos a la meta!",
+      "lessons": [
+        {
+          "id": 107,
+          "title": "Revisión de metas y logros"
+        },
+        {
+          "id": 108,
+          "title": "Repaso de hábitos y técnicas para lograrlos"
+        },
+        {
+          "id": 109,
+          "title": "Hasta pronto! "
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Conociendo otros tipos de alimentación",
+      "lessons": [
+        {
+          "id": 102,
+          "title": "La alimentación es personalizada"
+        },
+        {
+          "id": 103,
+          "title": "Conociendo la alimentación basada en plantas"
+        },
+        {
+          "id": 104,
+          "title": "La alimentación cetogénica y el ayuno intermitente"
+        },
+        {
+          "id": 106,
+          "title": "Rompiendo mitos sobre los diversos tipos de alimentación"
+        },
+        {
+          "id": 105,
+          "title": "Challenge: escogiendo lo que es para ti"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Posibilidades del trabajo remoto",
+      "lessons": [
+        {
+          "id": 124,
+          "title": "¿Qué se necesita para trabajar remoto de forma efectiva? III"
+        },
+        {
+          "id": 134,
+          "title": "Cómo ser tu propio jefe puede aumentar tu crecimiento"
+        },
+        {
+          "id": 131,
+          "title": "Trabajos remotos con alta demanda para independientes II"
+        },
+        {
+          "id": 132,
+          "title": "Trabajos remotos con alta demanda para independientes III"
+        },
+        {
+          "id": 135,
+          "title": "Tips adicionales sobre ser tu propio jefe"
+        },
+        {
+          "id": 133,
+          "title": "Challenge"
+        },
+        {
+          "id": 122,
+          "title": "¿Qué se necesita para trabajar remoto de forma efectiva?"
+        },
+        {
+          "id": 129,
+          "title": "Challenge"
+        },
+        {
+          "id": 128,
+          "title": "Dónde encontrar trabajo remoto como freelancer III"
+        },
+        {
+          "id": 126,
+          "title": "Dónde encontrar trabajo remoto como freelancer"
+        },
+        {
+          "id": 123,
+          "title": "¿Qué se necesita para trabajar remoto de forma efectiva? II"
+        },
+        {
+          "id": 125,
+          "title": "Challenge"
+        },
+        {
+          "id": 130,
+          "title": "Trabajos remotos con alta demanda para independientes"
+        },
+        {
+          "id": 127,
+          "title": "Dónde encontrar trabajo remoto como freelancer II"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Marketing digital para trabajadores remotos",
+      "lessons": [
+        {
+          "id": 138,
+          "title": "Challenge"
+        },
+        {
+          "id": 144,
+          "title": "Entendiendo tu buyer persona II"
+        },
+        {
+          "id": 139,
+          "title": "Cómo construir tu portafolio"
+        },
+        {
+          "id": 145,
+          "title": "Entendiendo tu buyer persona III"
+        },
+        {
+          "id": 141,
+          "title": "Cómo construir tu portafolio III"
+        },
+        {
+          "id": 136,
+          "title": "La importancia de tener un portafolio digital"
+        },
+        {
+          "id": 140,
+          "title": "Cómo construir tu portafolio II"
+        },
+        {
+          "id": 148,
+          "title": "La importancia de las redes sociales para el trabajo remoto"
+        },
+        {
+          "id": 150,
+          "title": "La importancia de las redes sociales para el trabajo remoto III"
+        },
+        {
+          "id": 149,
+          "title": "La importancia de las redes sociales para el trabajo remoto II"
+        },
+        {
+          "id": 143,
+          "title": "Entendiendo tu buyer persona"
+        },
+        {
+          "id": 147,
+          "title": "Challenge"
+        },
+        {
+          "id": 146,
+          "title": "Entendiendo tu buyer persona IV"
+        },
+        {
+          "id": 142,
+          "title": "Challenge"
+        },
+        {
+          "id": 137,
+          "title": "La importancia de tener un portafolio digital II"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Desarrollo del producto",
+      "lessons": [
+        {
+          "id": 151,
+          "title": "¿Qué vender?"
+        },
+        {
+          "id": 152,
+          "title": "Adoptar nuevos enfoques"
+        },
+        {
+          "id": 153,
+          "title": "Es importante creer en lo que vendes"
+        },
+        {
+          "id": 154,
+          "title": "Challenge"
+        },
+        {
+          "id": 155,
+          "title": "Construir una marca"
+        },
+        {
+          "id": 156,
+          "title": "La importancia de establecer tu marca"
+        },
+        {
+          "id": 157,
+          "title": "Estrategias de posicionamiento de marca"
+        },
+        {
+          "id": 158,
+          "title": "Resistir la prueba del tiempo"
+        },
+        {
+          "id": 159,
+          "title": "Challenge"
+        },
+        {
+          "id": 160,
+          "title": "La calidad del producto"
+        },
+        {
+          "id": 161,
+          "title": "Mejorar constantemente"
+        },
+        {
+          "id": 162,
+          "title": "Un proceso constante"
+        },
+        {
+          "id": 163,
+          "title": "Challenge"
+        },
+        {
+          "id": 164,
+          "title": "Storytelling en la descripción de los productos"
+        },
+        {
+          "id": 165,
+          "title": "Aprovechar el poder informativo de tu producto"
+        },
+        {
+          "id": 166,
+          "title": "Es mejor demostrar que solo decir"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Conociendo el mercado",
+      "lessons": [
+        {
+          "id": 167,
+          "title": "Benchmarking"
+        },
+        {
+          "id": 168,
+          "title": "Indicadores que miden la demanda del mercado"
+        },
+        {
+          "id": 169,
+          "title": "Challenge"
+        },
+        {
+          "id": 170,
+          "title": "Cómo recolectar los datos que te interesan de tus clientes"
+        },
+        {
+          "id": 171,
+          "title": "Cómo recolectar los datos que te interesan de tus clientes II"
+        },
+        {
+          "id": 172,
+          "title": "Challenge"
+        },
+        {
+          "id": 173,
+          "title": "Atrapando tendencias"
+        },
+        {
+          "id": 174,
+          "title": "Productos populares"
+        },
+        {
+          "id": 175,
+          "title": "Cómo integrar productos a tu tienda en línea"
+        },
+        {
+          "id": 176,
+          "title": "Challenge"
+        },
+        {
+          "id": 177,
+          "title": "Cómo destacarse frente a la competencia"
+        },
+        {
+          "id": 178,
+          "title": "Servicio al cliente excepcional"
+        },
+        {
+          "id": 180,
+          "title": "Atravesar por el ruido"
+        },
+        {
+          "id": 179,
+          "title": "Una presencia online fuerte"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Las bases del marketing digital",
+      "lessons": [
+        {
+          "id": 181,
+          "title": "Un ecosistema de marketing digital con propósito"
+        },
+        {
+          "id": 182,
+          "title": "Objetivos de marketing claros"
+        },
+        {
+          "id": 183,
+          "title": "Metas SMART"
+        },
+        {
+          "id": 184,
+          "title": "Challenge"
+        },
+        {
+          "id": 185,
+          "title": "Cómo escoger las herramientas de marketing adecuadas"
+        },
+        {
+          "id": 186,
+          "title": "Un marketing multicanal coherente"
+        },
+        {
+          "id": 187,
+          "title": "Integrar la información de todas las aplicaciones"
+        },
+        {
+          "id": 188,
+          "title": "Challenge"
+        },
+        {
+          "id": 189,
+          "title": "Ecosistemas digitales"
+        },
+        {
+          "id": 190,
+          "title": "SEO y SEM para tu sitio web"
+        },
+        {
+          "id": 191,
+          "title": "Mercadeo por redes, reputación online, usabilidad y blogs"
+        },
+        {
+          "id": 192,
+          "title": "Influencer marketing y analítica web"
+        },
+        {
+          "id": 194,
+          "title": "Inbound marketing"
+        },
+        {
+          "id": 195,
+          "title": "Content marketing"
+        },
+        {
+          "id": 193,
+          "title": "Challenge"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Redes sociales",
+      "lessons": [
+        {
+          "id": 211,
+          "title": "Social listening"
+        },
+        {
+          "id": 212,
+          "title": "Los clientes determinan la conversación sobre una marca"
+        },
+        {
+          "id": 213,
+          "title": "Challenge"
+        },
+        {
+          "id": 214,
+          "title": "Guía de estilo para redes sociales"
+        },
+        {
+          "id": 215,
+          "title": "Una voz de marca definida"
+        },
+        {
+          "id": 216,
+          "title": "Hasthags y contenido curado"
+        },
+        {
+          "id": 217,
+          "title": "Challenge"
+        },
+        {
+          "id": 218,
+          "title": "El plan de redes sociales"
+        },
+        {
+          "id": 219,
+          "title": "Análisis de competencia y auditoría de redes sociales"
+        },
+        {
+          "id": 220,
+          "title": "Una estrategia de redes sociales dinámica"
+        },
+        {
+          "id": 221,
+          "title": "Challenge"
+        },
+        {
+          "id": 222,
+          "title": "Las distintas redes sociales y cuáles escoger para tu marca"
+        },
+        {
+          "id": 223,
+          "title": "Instagram y Twitter"
+        },
+        {
+          "id": 225,
+          "title": "Linkedin y TikTok"
+        },
+        {
+          "id": 226,
+          "title": "Estadísticas y programación"
+        },
+        {
+          "id": 224,
+          "title": "Pinterest y Youtube"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Anuncios digitales pagos",
+      "lessons": [
+        {
+          "id": 227,
+          "title": "SEM (Search Engine Marketing)"
+        },
+        {
+          "id": 228,
+          "title": "Campañas de pago por clic para mejorar posicionamiento"
+        },
+        {
+          "id": 229,
+          "title": "Medios pagos, medios propios y medios ganados"
+        },
+        {
+          "id": 230,
+          "title": "Google Ads"
+        },
+        {
+          "id": 231,
+          "title": "Challenge"
+        },
+        {
+          "id": 232,
+          "title": "Social ads"
+        },
+        {
+          "id": 233,
+          "title": "Publicidad en redes sociales como Facebook"
+        },
+        {
+          "id": 234,
+          "title": "Anuncios en Instagram y Twitter"
+        },
+        {
+          "id": 235,
+          "title": "Anuncios en TikTok"
+        },
+        {
+          "id": 236,
+          "title": "Challenge"
+        },
+        {
+          "id": 237,
+          "title": "El embudo de ventas"
+        },
+        {
+          "id": 238,
+          "title": "Las etapas del embudo"
+        },
+        {
+          "id": 240,
+          "title": "Parte media y baja del embudo"
+        },
+        {
+          "id": 241,
+          "title": "Challenge"
+        },
+        {
+          "id": 242,
+          "title": "Indicadores clave de gestión (KPI)"
+        },
+        {
+          "id": 243,
+          "title": "Indicadores clave de gestión (KPI) II"
+        },
+        {
+          "id": 239,
+          "title": "Parte superior del embudo"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Comercio electrónico (e-commerce)",
+      "lessons": [
+        {
+          "id": 244,
+          "title": "Ventajas de tener una tienda online"
+        },
+        {
+          "id": 245,
+          "title": "Ventajas de tener una tienda online II"
+        },
+        {
+          "id": 246,
+          "title": "Ventajas de tener una tienda online III"
+        },
+        {
+          "id": 247,
+          "title": "Challenge"
+        },
+        {
+          "id": 248,
+          "title": "Modelos de negocios de e-commerce"
+        },
+        {
+          "id": 249,
+          "title": "Modelos de negocios de e-commerce II"
+        },
+        {
+          "id": 250,
+          "title": "Challenge"
+        },
+        {
+          "id": 251,
+          "title": "Fases del e-commerce para generar mayor interés"
+        },
+        {
+          "id": 252,
+          "title": "Fases del e-commerce para generar mayor interés II"
+        },
+        {
+          "id": 253,
+          "title": "Fases del e-commerce para generar mayor interés III"
+        },
+        {
+          "id": 255,
+          "title": "Plataformas de e-commerce"
+        },
+        {
+          "id": 256,
+          "title": "¿Qué plataformas de e-commerce escoger?"
+        },
+        {
+          "id": 257,
+          "title": "Wix y Woocommerce"
+        },
+        {
+          "id": 258,
+          "title": "Bigcommerce y Shopify"
+        },
+        {
+          "id": 259,
+          "title": "Ecwid y Weebly"
+        },
+        {
+          "id": 254,
+          "title": "Challenge"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Generación de leads",
+      "lessons": [
+        {
+          "id": 277,
+          "title": "Etapas de segmentación"
+        },
+        {
+          "id": 278,
+          "title": "¿Qué hacer con las listas segmentadas?"
+        },
+        {
+          "id": 279,
+          "title": "Variedad de segmentos"
+        },
+        {
+          "id": 280,
+          "title": "Segmentos de comportamiento"
+        },
+        {
+          "id": 263,
+          "title": "¿Qué es generación de leads?"
+        },
+        {
+          "id": 264,
+          "title": "Tipos de leads"
+        },
+        {
+          "id": 265,
+          "title": "Pasos en el proceso de generación de leads"
+        },
+        {
+          "id": 266,
+          "title": "El blog, uno de los canales predilectos para compartir contenido"
+        },
+        {
+          "id": 267,
+          "title": "Challenge"
+        },
+        {
+          "id": 268,
+          "title": "Lead scoring"
+        },
+        {
+          "id": 269,
+          "title": "Lead grading"
+        },
+        {
+          "id": 270,
+          "title": "Challenge"
+        },
+        {
+          "id": 271,
+          "title": "¿Qué es lead nurturing?"
+        },
+        {
+          "id": 272,
+          "title": "Un lead nurturing eficaz"
+        },
+        {
+          "id": 273,
+          "title": "Un enfoque de lead nurturing adecuado"
+        },
+        {
+          "id": 274,
+          "title": "Challenge"
+        },
+        {
+          "id": 275,
+          "title": "Segmentación de leads"
+        },
+        {
+          "id": 276,
+          "title": "Ejemplo de segmentación"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "E-mail marketing",
+      "lessons": [
+        {
+          "id": 281,
+          "title": "La importancia del e-mail marketing"
+        },
+        {
+          "id": 282,
+          "title": "Solo envía mensajes a quienes se hayan registrado"
+        },
+        {
+          "id": 283,
+          "title": "Adapta tus e-mails a lo que quieren tus potenciales clientes"
+        },
+        {
+          "id": 284,
+          "title": "Con el e-mail marketing, las listas de contactos son de tu propiedad"
+        },
+        {
+          "id": 285,
+          "title": "Challenge"
+        },
+        {
+          "id": 286,
+          "title": "Estrategias para construir una base de datos de e-mails"
+        },
+        {
+          "id": 287,
+          "title": "Cómo recolectar esos datos"
+        },
+        {
+          "id": 288,
+          "title": "Más estrategias de recolección de datos"
+        },
+        {
+          "id": 289,
+          "title": "Mantén tus listas frescas y actualizadas"
+        },
+        {
+          "id": 290,
+          "title": "Challenge"
+        },
+        {
+          "id": 291,
+          "title": "Herramientas útiles para armar tu lista de correo electrónico"
+        },
+        {
+          "id": 292,
+          "title": "Herramientas útiles para armar tu lista de correo electrónico II"
+        },
+        {
+          "id": 293,
+          "title": "Challenge"
+        },
+        {
+          "id": 294,
+          "title": "Tipos de correos electrónicos que puedes enviar"
+        },
+        {
+          "id": 296,
+          "title": "E-mails transaccionales y de patrocinio"
+        },
+        {
+          "id": 297,
+          "title": "Cómo medir el éxito de una campaña de correo electrónico"
+        },
+        {
+          "id": 298,
+          "title": "Estadísticas de e-mail marketing a las que hacer seguimiento"
+        },
+        {
+          "id": 299,
+          "title": "La lista de contactos es crucial para tus metas de e-mail marketing"
+        },
+        {
+          "id": 300,
+          "title": "Métricas de uso compartido y tasas de conversión"
+        },
+        {
+          "id": 301,
+          "title": "Más métricas que seguir y estrategias que aplicar"
+        },
+        {
+          "id": 302,
+          "title": "Challenge"
+        },
+        {
+          "id": 295,
+          "title": "Correos independientes y de lead nurturing"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Buyer persona",
+      "lessons": [
+        {
+          "id": 308,
+          "title": "Creación de perfiles con base en información"
+        },
+        {
+          "id": 309,
+          "title": "Experiencias dinámicas para tus buyer personas"
+        },
+        {
+          "id": 310,
+          "title": "Challenge"
+        },
+        {
+          "id": 311,
+          "title": "Segmentación y buyer personas"
+        },
+        {
+          "id": 312,
+          "title": "Historia de la segmentación"
+        },
+        {
+          "id": 313,
+          "title": "Otros modos de segmentación"
+        },
+        {
+          "id": 303,
+          "title": "Qué es un buyer persona y por qué es importante"
+        },
+        {
+          "id": 304,
+          "title": "Construir un buyer persona es esclarecedor en sí mismo"
+        },
+        {
+          "id": 305,
+          "title": "Un buyer persona te ayudará a reducir tu enfoque"
+        },
+        {
+          "id": 306,
+          "title": "Challenge"
+        },
+        {
+          "id": 307,
+          "title": "Guía a profundidad sobre cómo construir tus buyer personas"
+        },
+        {
+          "id": 314,
+          "title": "Comprende mejor a tu audiencia con los buyer personas"
+        },
+        {
+          "id": 315,
+          "title": "Challenge"
+        },
+        {
+          "id": 316,
+          "title": "Cómo hacer uso de tus buyer personas"
+        },
+        {
+          "id": 317,
+          "title": "Buyer personas: un activo invaluable"
+        },
+        {
+          "id": 318,
+          "title": "Tus buyer personas están en construcción constante"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Psicología del consumidor",
+      "lessons": [
+        {
+          "id": 319,
+          "title": "¿Qué es psicología del consumidor?"
+        },
+        {
+          "id": 320,
+          "title": "¿Qué es psicología del consumidor? II"
+        },
+        {
+          "id": 321,
+          "title": "Cómo abordar el campo de la psicología del consumidor"
+        },
+        {
+          "id": 322,
+          "title": "Una perspectiva integral de la toma de decisiones de compra"
+        },
+        {
+          "id": 323,
+          "title": "Challenge"
+        },
+        {
+          "id": 324,
+          "title": "Trucos psicológicos que hacen que compres más"
+        },
+        {
+          "id": 325,
+          "title": "Trucos psicológicos que hacen que compres más II"
+        },
+        {
+          "id": 327,
+          "title": "Challenge"
+        },
+        {
+          "id": 328,
+          "title": "La importancia de los testimonios"
+        },
+        {
+          "id": 329,
+          "title": "La importancia de los testimonios II"
+        },
+        {
+          "id": 330,
+          "title": "La importancia de los testimonios III"
+        },
+        {
+          "id": 331,
+          "title": "Challenge"
+        },
+        {
+          "id": 332,
+          "title": "Cómo convencer a alguien para que compre"
+        },
+        {
+          "id": 333,
+          "title": "Cómo convencer a alguien para que compre II"
+        },
+        {
+          "id": 334,
+          "title": "Cómo convencer a alguien para que compre III"
+        },
+        {
+          "id": 335,
+          "title": "La venta consultiva"
+        },
+        {
+          "id": 336,
+          "title": "La venta consultiva II"
+        },
+        {
+          "id": 337,
+          "title": "La venta consultiva III"
+        },
+        {
+          "id": 326,
+          "title": "Trucos psicológicos que hacen que compres más III"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Habilidades imprescindibles",
+      "lessons": [
+        {
+          "id": 338,
+          "title": "Habilidades necesarias para vender en línea "
+        },
+        {
+          "id": 339,
+          "title": "Habilidades necesarias para vender en línea II"
+        },
+        {
+          "id": 340,
+          "title": "Challenge"
+        },
+        {
+          "id": 341,
+          "title": "La importancia de construir relaciones en los negocios"
+        },
+        {
+          "id": 342,
+          "title": "La importancia de construir relaciones en los negocios II"
+        },
+        {
+          "id": 343,
+          "title": "La importancia de construir relaciones en los negocios III"
+        },
+        {
+          "id": 344,
+          "title": "Challenge"
+        },
+        {
+          "id": 345,
+          "title": "Saber contar la historia de tu negocio es crucial"
+        },
+        {
+          "id": 346,
+          "title": "Saber contar la historia de tu negocio es crucial II"
+        },
+        {
+          "id": 347,
+          "title": "Challenge"
+        },
+        {
+          "id": 348,
+          "title": "El pensamiento crítico en el mundo de los negocios"
+        },
+        {
+          "id": 349,
+          "title": "El pensamiento crítico en el mundo de los negocios II"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "El consumidor de hoy",
+      "lessons": [
+        {
+          "id": 350,
+          "title": "Las distintas generaciones y sus hábitos de compra"
+        },
+        {
+          "id": 351,
+          "title": "Baby boomers"
+        },
+        {
+          "id": 353,
+          "title": "Millenials"
+        },
+        {
+          "id": 354,
+          "title": "Generación Z"
+        },
+        {
+          "id": 355,
+          "title": "Cómo llegar a cada generación"
+        },
+        {
+          "id": 356,
+          "title": "Cómo llegar a los baby boomers"
+        },
+        {
+          "id": 357,
+          "title": "Cómo llegar a la generación X"
+        },
+        {
+          "id": 358,
+          "title": "Cómo llegar a los millenials"
+        },
+        {
+          "id": 359,
+          "title": "Cómo llegar a la generación Z"
+        },
+        {
+          "id": 360,
+          "title": "Marketing generacional, un marco sólido para tu empresa"
+        },
+        {
+          "id": 361,
+          "title": "Challenge"
+        },
+        {
+          "id": 362,
+          "title": "Los distintos tipos de compradores"
+        },
+        {
+          "id": 363,
+          "title": "El busca gangas y el comprador que solo mira"
+        },
+        {
+          "id": 364,
+          "title": "El comprador impulsivo y el comprador decidido"
+        },
+        {
+          "id": 365,
+          "title": "El cliente leal y el prosumidor"
+        },
+        {
+          "id": 367,
+          "title": "Estrategias digitales para los distintos tipos de clientes"
+        },
+        {
+          "id": 368,
+          "title": "Tácticas para buscadores de descuentos"
+        },
+        {
+          "id": 369,
+          "title": "Estrategias para los investigadores y clientes nuevos"
+        },
+        {
+          "id": 370,
+          "title": "Responde rápido a las críticas negativas"
+        },
+        {
+          "id": 371,
+          "title": "Challenge"
+        },
+        {
+          "id": 352,
+          "title": "Generación X"
+        },
+        {
+          "id": 366,
+          "title": "Challenge"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "¡Ponte manos a la obra!",
+      "lessons": [
+        {
+          "id": 410,
+          "title": "Cómo mejorar tu enfoque mientras trabajas desde casa"
+        },
+        {
+          "id": 411,
+          "title": "Crea una estación de trabajo que te motive"
+        },
+        {
+          "id": 412,
+          "title": "Entra en la mentalidad indicada"
+        },
+        {
+          "id": 413,
+          "title": "Elimina las tecnologías que te distraigan"
+        },
+        {
+          "id": 414,
+          "title": "Challenge"
+        },
+        {
+          "id": 415,
+          "title": "Cómo mantener la motivación al trabajar desde casa"
+        },
+        {
+          "id": 416,
+          "title": "Motivos de desmotivación"
+        },
+        {
+          "id": 417,
+          "title": "Crea metas concretas"
+        },
+        {
+          "id": 418,
+          "title": "Olvida las listas de tareas y mejor prioriza"
+        },
+        {
+          "id": 419,
+          "title": "Toma una ducha fría y aprovecha esos sentimientos fuertes"
+        },
+        {
+          "id": 420,
+          "title": "Challenge"
+        },
+        {
+          "id": 421,
+          "title": "Trabajar desde casa con niños"
+        },
+        {
+          "id": 422,
+          "title": "Comienza bien el día para todos: levántate y prepárate"
+        },
+        {
+          "id": 424,
+          "title": "Videollamadas desde casa con niños"
+        },
+        {
+          "id": 425,
+          "title": "Challenge"
+        },
+        {
+          "id": 426,
+          "title": "Balance trabajo-vida personal "
+        },
+        {
+          "id": 427,
+          "title": "Cómo equilibrar el trabajo y la vida personal de manera efectiva"
+        },
+        {
+          "id": 428,
+          "title": "Planes para tus horas después del trabajo y otras estrategias útiles"
+        },
+        {
+          "id": 429,
+          "title": "Aliméntate bien y sal a caminar de vez en cuando"
+        },
+        {
+          "id": 430,
+          "title": "Challenge"
+        },
+        {
+          "id": 431,
+          "title": "La importancia de priorizar en el trabajo"
+        },
+        {
+          "id": 432,
+          "title": "Haz una lista de tus tareas e identifica qué es urgente y qué es importante"
+        },
+        {
+          "id": 433,
+          "title": "Analiza el valor de las tareas y ordénalas por nivel de esfuerzo"
+        },
+        {
+          "id": 434,
+          "title": "Flexibilidad, adaptabilidad y saber qué eliminar"
+        },
+        {
+          "id": 435,
+          "title": "Challenge"
+        },
+        {
+          "id": 423,
+          "title": "Aprende a ser empático y flexible como gerente o compañero de trabajo"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Reuniones virtuales",
+      "lessons": [
+        {
+          "id": 512,
+          "title": "Consejos para hacer reuniones virtuales más profesionales"
+        },
+        {
+          "id": 513,
+          "title": "Crea un espacio de trabajo remoto profesional"
+        },
+        {
+          "id": 514,
+          "title": "Asegúrate de que la configuración técnica sea sólida"
+        },
+        {
+          "id": 515,
+          "title": "Haz que las reuniones virtuales se sientan reales"
+        },
+        {
+          "id": 516,
+          "title": "¿Qué es la presencia virtual y cómo mejorarla?"
+        },
+        {
+          "id": 517,
+          "title": "Escoge bien tu encuadre y evita los fondos digitales"
+        },
+        {
+          "id": 518,
+          "title": "Entra en la mentalidad indicada"
+        },
+        {
+          "id": 519,
+          "title": "Cómo evitar las distracciones durante las videollamadas "
+        },
+        {
+          "id": 521,
+          "title": "Challenge"
+        },
+        {
+          "id": 522,
+          "title": "Cómo romper el silencio en reuniones virtuales "
+        },
+        {
+          "id": 523,
+          "title": "Romper el hielo en reuniones virtuales"
+        },
+        {
+          "id": 524,
+          "title": "Cómo más evitas esos silencios prolongados de las reuniones virtuales"
+        },
+        {
+          "id": 525,
+          "title": "Acuerdos de trabajo en las reuniones virtuales"
+        },
+        {
+          "id": 526,
+          "title": "Cómo sacar provecho al silencio en reuniones virtuales"
+        },
+        {
+          "id": 527,
+          "title": "Cómo sacar provecho al silencio en reuniones virtuales II"
+        },
+        {
+          "id": 528,
+          "title": "Challenge"
+        },
+        {
+          "id": 529,
+          "title": "El uso de salas separadas en reuniones virtuales"
+        },
+        {
+          "id": 530,
+          "title": "Número de personas, liderazgo y compromiso"
+        },
+        {
+          "id": 531,
+          "title": "La claridad es esencial en las videollamadas divididas en grupos"
+        },
+        {
+          "id": 532,
+          "title": "Challenge"
+        },
+        {
+          "id": 520,
+          "title": "Cómo evitar las distracciones durante las videollamadas II"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Salud mental y emocional",
+      "lessons": [
+        {
+          "id": 502,
+          "title": "Crea el ambiente para que alejarte de las pantallas no sea un martirio"
+        },
+        {
+          "id": 484,
+          "title": "Cómo evitar la fatiga al trabajar remoto"
+        },
+        {
+          "id": 485,
+          "title": "Sal a pasear y toma un descanso"
+        },
+        {
+          "id": 486,
+          "title": "Más tácticas para evitar el agotamiento"
+        },
+        {
+          "id": 487,
+          "title": "Consiéntete y busca motivación externa"
+        },
+        {
+          "id": 488,
+          "title": "Cocinar y mover esos músculos, necesaria distensión"
+        },
+        {
+          "id": 489,
+          "title": "Saber cuándo desconectarte y otros hábitos saludables"
+        },
+        {
+          "id": 490,
+          "title": "Haz ejercicio de forma regular"
+        },
+        {
+          "id": 491,
+          "title": "No te olvides de socializar ni de viajar"
+        },
+        {
+          "id": 492,
+          "title": "Challenge"
+        },
+        {
+          "id": 493,
+          "title": "Reconocer cuándo descansar "
+        },
+        {
+          "id": 494,
+          "title": "Reconocer cuándo descansar II"
+        },
+        {
+          "id": 495,
+          "title": "Challenge"
+        },
+        {
+          "id": 496,
+          "title": "Cómo reducir tu tiempo en pantalla al trabajar desde casa"
+        },
+        {
+          "id": 497,
+          "title": "Documenta tus pasos y realiza los ajustes necesarios"
+        },
+        {
+          "id": 498,
+          "title": "Establece prioridades en relación con tu tiempo en pantalla"
+        },
+        {
+          "id": 499,
+          "title": "No necesitas las pantallas para todo, acoge las maneras de antes"
+        },
+        {
+          "id": 501,
+          "title": "¡Una pantalla a la vez!"
+        },
+        {
+          "id": 504,
+          "title": "Cómo evitar la fatiga de las videollamadas"
+        },
+        {
+          "id": 506,
+          "title": "Challenge"
+        },
+        {
+          "id": 507,
+          "title": "Cómo lidiar con los sentimientos de aislamiento al trabajar remoto"
+        },
+        {
+          "id": 508,
+          "title": "Consejos para trabajadores remotos que quieren lidiar mejor con el aislamiento"
+        },
+        {
+          "id": 509,
+          "title": "El aislamiento puede afectar tu salud"
+        },
+        {
+          "id": 510,
+          "title": "Saca ventaja de la flexibilidad de tu horario"
+        },
+        {
+          "id": 511,
+          "title": "Challenge"
+        },
+        {
+          "id": 500,
+          "title": "Programa descansos productivos"
+        },
+        {
+          "id": 503,
+          "title": "Challenge"
+        },
+        {
+          "id": 505,
+          "title": "Recomendaciones para videollamadas efectivas"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Estrés",
+      "lessons": [
+        {
+          "id": 544,
+          "title": "¿Por qué nos estresamos?"
+        },
+        {
+          "id": 542,
+          "title": "¿De qué hablamos cuando hablamos de estrés?"
+        },
+        {
+          "id": 550,
+          "title": "Adiós estrés II"
+        },
+        {
+          "id": 549,
+          "title": "Adiós estrés"
+        },
+        {
+          "id": 546,
+          "title": "El estrés y nosotros"
+        },
+        {
+          "id": 543,
+          "title": "¿Estás estresada?"
+        },
+        {
+          "id": 545,
+          "title": "La psicología del estrés. "
+        },
+        {
+          "id": 547,
+          "title": " El estrés en el cuerpo"
+        },
+        {
+          "id": 548,
+          "title": "No todo lo que nos estresa es \"estresante\"."
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Introducción a la depresión",
+      "lessons": [
+        {
+          "id": 642,
+          "title": "La importancia de la terapia y la medicación para tratar la depresión"
+        },
+        {
+          "id": 640,
+          "title": "Actividad: Reflexiona sobre tus pensamientos y emociones"
+        },
+        {
+          "id": 643,
+          "title": "Actividad: Practica la respiración diafragmática"
+        },
+        {
+          "id": 638,
+          "title": "¿Cuáles son los principales síntomas de la depresión?"
+        },
+        {
+          "id": 645,
+          "title": "Actividad: Expresa gratitud"
+        },
+        {
+          "id": 637,
+          "title": "¿Qué es la depresión?"
+        },
+        {
+          "id": 644,
+          "title": "Consejos para sentirse mejor y superar, de a poco, la depresión"
+        },
+        {
+          "id": 641,
+          "title": "El rol de los pensamientos en la depresión"
+        },
+        {
+          "id": 639,
+          "title": "Causas y factores de riesgo de la depresión"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Adiós depresión!",
+      "lessons": [
+        {
+          "id": 394,
+          "title": " Reconociendo la depresión"
+        },
+        {
+          "id": 401,
+          "title": "Cuando se apodera de la mente II"
+        },
+        {
+          "id": 404,
+          "title": "Adiós mitos!"
+        },
+        {
+          "id": 403,
+          "title": "La luz al final del túnel II"
+        },
+        {
+          "id": 396,
+          "title": "¿Por qué nos sentimos así? "
+        },
+        {
+          "id": 398,
+          "title": "La ciencia detrás de las emociones"
+        },
+        {
+          "id": 395,
+          "title": "Tristeza y depresión: no son lo mismo "
+        },
+        {
+          "id": 397,
+          "title": "¿Por qué nos sentimos así? II"
+        },
+        {
+          "id": 402,
+          "title": "La luz al final del túnel I"
+        },
+        {
+          "id": 400,
+          "title": "Cuando se apodera de la mente I"
+        },
+        {
+          "id": 393,
+          "title": "¿A qué le  llamamos \"depresión\"?"
+        },
+        {
+          "id": 399,
+          "title": "Esto que siento ¿es depresión?"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Introducción a la ansiedad",
+      "lessons": [
+        {
+          "id": 11,
+          "title": "¿Y nuestros comportamientos?"
+        },
+        {
+          "id": 12,
+          "title": "Otros síntomas comportamentales"
+        },
+        {
+          "id": 591,
+          "title": "Adiós a la ansiedad II"
+        },
+        {
+          "id": 589,
+          "title": "Actividad: Practica la visualización guiada"
+        },
+        {
+          "id": 7,
+          "title": "Higiene de sueño para dormir mejor"
+        },
+        {
+          "id": 10,
+          "title": "Challenge"
+        },
+        {
+          "id": 590,
+          "title": "¡Adiós ansiedad!"
+        },
+        {
+          "id": 2,
+          "title": "¿Cómo es la ansiedad “normal”?"
+        },
+        {
+          "id": 4,
+          "title": "Síntomas físicos de la ansiedad"
+        },
+        {
+          "id": 6,
+          "title": "Alimentación saludable para controlar la ansiedad"
+        },
+        {
+          "id": 8,
+          "title": "Más hábitos saludables para controlar la ansiedad"
+        },
+        {
+          "id": 3,
+          "title": "Actividad: Practica la respiración diafragmática"
+        },
+        {
+          "id": 1,
+          "title": "¿Qué es la ansiedad?"
+        },
+        {
+          "id": 9,
+          "title": "La ansiedad en la mente"
+        },
+        {
+          "id": 5,
+          "title": "Síntomas conductuales de la ansiedad"
+        },
+        {
+          "id": 592,
+          "title": "Challenge"
+        },
+        {
+          "id": 593,
+          "title": "¿Cuándo la ansiedad se convierte en un problema grave? "
+        },
+        {
+          "id": 594,
+          "title": "Síntomas cognitivos de la ansiedad"
+        },
+        {
+          "id": 595,
+          "title": "Actividad: Elige una estrategia de la sesión anterior e intenta llevarla a cabo"
+        },
+        {
+          "id": 596,
+          "title": "Challenge"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Salud mental y emocional",
+      "lessons": [
+        {
+          "id": 456,
+          "title": "Cómo evitar la fatiga al trabajar remoto"
+        },
+        {
+          "id": 457,
+          "title": "Sal a pasear y toma un descanso"
+        },
+        {
+          "id": 458,
+          "title": "Más tácticas para evitar el agotamiento"
+        },
+        {
+          "id": 459,
+          "title": "Consiéntete y busca motivación externa"
+        },
+        {
+          "id": 460,
+          "title": "Cocinar y mover esos músculos, necesaria distensión"
+        },
+        {
+          "id": 461,
+          "title": "Saber cuándo desconectarte y otros hábitos saludables"
+        },
+        {
+          "id": 462,
+          "title": "Haz ejercicio de forma regular"
+        },
+        {
+          "id": 463,
+          "title": "No te olvides de socializar ni de viajar"
+        },
+        {
+          "id": 464,
+          "title": "Challenge"
+        },
+        {
+          "id": 465,
+          "title": "Reconocer cuándo descansar "
+        },
+        {
+          "id": 467,
+          "title": "Challenge"
+        },
+        {
+          "id": 468,
+          "title": "Cómo reducir tu tiempo en pantalla al trabajar desde casa"
+        },
+        {
+          "id": 469,
+          "title": "Documenta tus pasos y realiza los ajustes necesarios"
+        },
+        {
+          "id": 470,
+          "title": "Establece prioridades en relación con tu tiempo en pantalla"
+        },
+        {
+          "id": 471,
+          "title": "No necesitas las pantallas para todo, acoge las maneras de antes"
+        },
+        {
+          "id": 472,
+          "title": "Programa descansos productivos"
+        },
+        {
+          "id": 473,
+          "title": "¡Una pantalla a la vez!"
+        },
+        {
+          "id": 474,
+          "title": "Crea el ambiente para que alejarte de las pantallas no sea un martirio"
+        },
+        {
+          "id": 475,
+          "title": "Challenge"
+        },
+        {
+          "id": 476,
+          "title": "Cómo evitar la fatiga de las videollamadas"
+        },
+        {
+          "id": 477,
+          "title": "Recomendaciones para videollamadas efectivas"
+        },
+        {
+          "id": 478,
+          "title": "Challenge"
+        },
+        {
+          "id": 479,
+          "title": "Cómo lidiar con los sentimientos de aislamiento al trabajar remoto "
+        },
+        {
+          "id": 481,
+          "title": "El aislamiento puede afectar tu salud"
+        },
+        {
+          "id": 482,
+          "title": "Saca ventaja de la flexibilidad de tu horario"
+        },
+        {
+          "id": 483,
+          "title": "Challenge"
+        },
+        {
+          "id": 466,
+          "title": "Reconocer cuándo descansar II"
+        },
+        {
+          "id": 480,
+          "title": "Consejos para trabajadores remotos que quieren lidiar mejor con el aislamiento"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Las bases de la nutrición",
+      "lessons": [
+        {
+          "id": 24,
+          "title": "Las proteínas"
+        },
+        {
+          "id": 202,
+          "title": "La cantidad de proteína que necesitas"
+        },
+        {
+          "id": 29,
+          "title": "Los micronutrientes"
+        },
+        {
+          "id": 26,
+          "title": "Beneficios de la fibra"
+        },
+        {
+          "id": 31,
+          "title": "Deshaciendo mitos"
+        },
+        {
+          "id": 201,
+          "title": "Las leyes de la nutrición"
+        },
+        {
+          "id": 204,
+          "title": "Las grasas mono y poliinsaturadas"
+        },
+        {
+          "id": 206,
+          "title": "La suplementación de calidad"
+        },
+        {
+          "id": 27,
+          "title": "Hablemos de la grasa"
+        },
+        {
+          "id": 32,
+          "title": "Actividad: Check up de hábitos"
+        },
+        {
+          "id": 203,
+          "title": "La fibra insoluble "
+        },
+        {
+          "id": 30,
+          "title": "Comiendo un arcoiris: los fitonutrientes"
+        },
+        {
+          "id": 647,
+          "title": "Actividad: ¿Qué suplementos usas?"
+        },
+        {
+          "id": 646,
+          "title": "Actividad: test de conocimientos"
+        },
+        {
+          "id": 207,
+          "title": "Deshaciendo mitos II"
+        },
+        {
+          "id": 23,
+          "title": "Qué es un macronutriente y un micronutriente"
+        },
+        {
+          "id": 25,
+          "title": "Conociendo a los carbohidratos"
+        },
+        {
+          "id": 205,
+          "title": "Sigamos aprendiendo de los micro nutrientes"
+        },
+        {
+          "id": 28,
+          "title": "Actividad: Conociendo tu cocina"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Bienvenido a una vida sana",
+      "lessons": [
+        {
+          "id": 20,
+          "title": "Entendiendo la distracción"
+        },
+        {
+          "id": 200,
+          "title": "Crea tu red de apoyo (ELIMINAR ESTA SESIÓN)"
+        },
+        {
+          "id": 197,
+          "title": "Challenge: Encontrando tu motivación"
+        },
+        {
+          "id": 22,
+          "title": "¡Listos!"
+        },
+        {
+          "id": 199,
+          "title": "Los factores externos"
+        },
+        {
+          "id": 198,
+          "title": "El auto control y vencer las distracciones a través de hábitos"
+        },
+        {
+          "id": 19,
+          "title": "Creando hábitos, motivación y disciplina II"
+        },
+        {
+          "id": 21,
+          "title": "Los factores externos II"
+        },
+        {
+          "id": 196,
+          "title": "Challenge: Estableciendo metas"
+        },
+        {
+          "id": 18,
+          "title": " Creando hábitos, motivación y disciplina"
+        },
+        {
+          "id": 17,
+          "title": "La relación entre nutrición y salud"
+        },
+        {
+          "id": 16,
+          "title": "Establezcamos una meta "
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "El plato alimentario y las porciones",
+      "lessons": [
+        {
+          "id": 39,
+          "title": "40 días de tu nueva vida"
+        },
+        {
+          "id": 36,
+          "title": "Pesando y midiendo alimentos"
+        },
+        {
+          "id": 34,
+          "title": "Aprendiendo a medir porciones"
+        },
+        {
+          "id": 35,
+          "title": "Analizando las porciones de tu restaurante favorito"
+        },
+        {
+          "id": 209,
+          "title": "Preparando tu plato saludable fuera de casa"
+        },
+        {
+          "id": 210,
+          "title": "Perder peso no es sólo contar calorías"
+        },
+        {
+          "id": 33,
+          "title": "Conociendo el plato saludable"
+        },
+        {
+          "id": 37,
+          "title": "Preparando tu plato saludable"
+        },
+        {
+          "id": 38,
+          "title": "Ventajas de medir porciones vs contar calorías"
+        },
+        {
+          "id": 208,
+          "title": "Porciones en alimentaciones alternativas"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Beneficios a la salud de las dietas vegetarianas",
+      "lessons": [
+        {
+          "id": 616,
+          "title": "Beneficios a la salud"
+        },
+        {
+          "id": 617,
+          "title": "Evitando el envejecimiento prematuro"
+        },
+        {
+          "id": 618,
+          "title": "Un peso saludable"
+        },
+        {
+          "id": 619,
+          "title": "Control de glucosa y diabetes"
+        },
+        {
+          "id": 620,
+          "title": "Cuidando tu corazón"
+        },
+        {
+          "id": 621,
+          "title": "Challenge: tus necesidades de salud"
+        },
+        {
+          "id": 622,
+          "title": "Energía y vitalidad"
+        },
+        {
+          "id": 623,
+          "title": "Las bondades de la fibra"
+        },
+        {
+          "id": 624,
+          "title": "La microbiota y el sistema inmune"
+        },
+        {
+          "id": 625,
+          "title": "Mejorando tu salud de forma integral"
+        },
+        {
+          "id": 626,
+          "title": "Challenge: tus necesidades de salud"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Conociendo a los alimentos naturales y los procesados",
+      "lessons": [
+        {
+          "id": 43,
+          "title": "Conociendo tu cocina 2"
+        },
+        {
+          "id": 46,
+          "title": "Revisemos las metas de nuestro 4º curso."
+        },
+        {
+          "id": 45,
+          "title": "Limpiando tu cocina"
+        },
+        {
+          "id": 42,
+          "title": "Los alimentos procesados"
+        },
+        {
+          "id": 261,
+          "title": "¿Tienen alguna desventaja los alimentos naturales?"
+        },
+        {
+          "id": 40,
+          "title": "Qué es un alimento natural y qué es un alimento procesado"
+        },
+        {
+          "id": 41,
+          "title": "Ventajas de los alimentos naturales"
+        },
+        {
+          "id": 262,
+          "title": "Leyendo las etiquetas de los alimentos procesados"
+        },
+        {
+          "id": 260,
+          "title": "Los alimentos ultra procesados"
+        },
+        {
+          "id": 44,
+          "title": "Enfermedades relacionadas a los alimentos procesados"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Todo sobre el etiquetado alimentario",
+      "lessons": [
+        {
+          "id": 47,
+          "title": " Etiquetado, ¿leo el frente o el reverso? "
+        },
+        {
+          "id": 50,
+          "title": "Normas en el etiquetado y como usarlas a tu favor"
+        },
+        {
+          "id": 52,
+          "title": "Recordando conceptos"
+        },
+        {
+          "id": 49,
+          "title": "Identifica cuánta azúcar hay en tu comida"
+        },
+        {
+          "id": 51,
+          "title": "Encuentra 3 alimentos limpios o clean "
+        },
+        {
+          "id": 48,
+          "title": "El azúcar y sus múltiples personalidades"
+        },
+        {
+          "id": 372,
+          "title": "El etiquetado frontal"
+        },
+        {
+          "id": 373,
+          "title": "¿Cómo dejar el azúcar?"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Ansiedad y pensamientos: una mirada desde la terapia cognitivo-conductual",
+      "lessons": [
+        {
+          "id": 534,
+          "title": "¿Qué es la terapia cognitivo-conductual?"
+        },
+        {
+          "id": 541,
+          "title": "¡Desafía tus pensamientos!"
+        },
+        {
+          "id": 535,
+          "title": "Comenzando a identificar situaciones problemáticas"
+        },
+        {
+          "id": 533,
+          "title": "El mundo a través de los anteojos de la ansiedad"
+        },
+        {
+          "id": 536,
+          "title": "¿Cómo se interrelacionan los pensamientos, emociones y conductas?"
+        },
+        {
+          "id": 537,
+          "title": "Los anteojos de la ansiedad: ¿qué ocurre en la mente de una persona con ansiedad y cómo actúa en consecuencia? "
+        },
+        {
+          "id": 538,
+          "title": "Pensamientos y emociones relacionadas a la situación problemática"
+        },
+        {
+          "id": 539,
+          "title": "Identificando patrones de pensamiento negativos "
+        },
+        {
+          "id": 540,
+          "title": "Introducción al diálogo socrático"
+        },
+        {
+          "id": 597,
+          "title": "Procesamiento disfuncional de la información en la ansiedad"
+        },
+        {
+          "id": 598,
+          "title": "Claves para manejar la incertidumbre "
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Trastorno de Ansiedad Social",
+      "lessons": [
+        {
+          "id": 599,
+          "title": "La psicología de la ansiedad social"
+        },
+        {
+          "id": 600,
+          "title": "Challenge"
+        },
+        {
+          "id": 601,
+          "title": "Adiós ansiedad social"
+        },
+        {
+          "id": 556,
+          "title": "Practica la respiración diafragmática"
+        },
+        {
+          "id": 551,
+          "title": "¿Qué es la fobia social?"
+        },
+        {
+          "id": 554,
+          "title": "Explora tus emociones y pensamientos"
+        },
+        {
+          "id": 553,
+          "title": "El rol de los sesgos atencionales en la fobia social"
+        },
+        {
+          "id": 555,
+          "title": "Niveles de gravedad de la fobia social"
+        },
+        {
+          "id": 558,
+          "title": "Practica la terapia de exposición imaginaria"
+        },
+        {
+          "id": 559,
+          "title": "Practica la atención focalizada"
+        },
+        {
+          "id": 560,
+          "title": "Recapitulando"
+        },
+        {
+          "id": 552,
+          "title": "Principales síntomas del trastorno de ansiedad social"
+        },
+        {
+          "id": 557,
+          "title": "Introducción a la terapia de exposición"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Mentalidad emprendedora",
+      "lessons": [
+        {
+          "id": 648,
+          "title": "Características de un emprendedor"
+        },
+        {
+          "id": 649,
+          "title": "Aprender de los errores"
+        },
+        {
+          "id": 650,
+          "title": "Señas de que tienes la mente del emprendedor"
+        },
+        {
+          "id": 651,
+          "title": "Señas de que tienes la mente del emprendedor"
+        },
+        {
+          "id": 652,
+          "title": "Test de mentalidad emprendedora"
+        },
+        {
+          "id": 653,
+          "title": "Cómo desarrollar una mentalidad emprendedora"
+        },
+        {
+          "id": 654,
+          "title": "Cómo desarrollar una mentalidad emprendedora II"
+        },
+        {
+          "id": 655,
+          "title": "Logra tu plan de 10 años en 6 meses"
+        },
+        {
+          "id": 656,
+          "title": "Tu círculo social y profesional importa"
+        },
+        {
+          "id": 657,
+          "title": "Tu círculo social importa II"
+        },
+        {
+          "id": 658,
+          "title": "Mira a tu alrededor"
+        },
+        {
+          "id": 659,
+          "title": "Espacios de coworking"
+        },
+        {
+          "id": 660,
+          "title": "Espacios de coworking II"
+        },
+        {
+          "id": 661,
+          "title": "Espacios de coworking III"
+        },
+        {
+          "id": 662,
+          "title": "La importancia de un buen servicio al cliente"
+        },
+        {
+          "id": 663,
+          "title": "La importancia de un buen servicio al cliente II"
+        },
+        {
+          "id": 664,
+          "title": "Establecer las pautas de servicio al cliente"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Habilidades imprescindibles para emprender",
+      "lessons": [
+        {
+          "id": 665,
+          "title": "Habilidades necesarias para un emprendedor o emprendedora"
+        },
+        {
+          "id": 666,
+          "title": "Habilidades necesarias para un emprendedor II"
+        },
+        {
+          "id": 667,
+          "title": "Mejora tus habilidades"
+        },
+        {
+          "id": 668,
+          "title": "La inteligencia emocional en los negocios"
+        },
+        {
+          "id": 669,
+          "title": "La inteligencia emocional en los negocios II"
+        },
+        {
+          "id": 670,
+          "title": "¿Cómo reaccionas a las críticas?"
+        },
+        {
+          "id": 671,
+          "title": "Habilidades necesarias en un mundo digital"
+        },
+        {
+          "id": 672,
+          "title": "Habilidades necesarias en un mundo digital II"
+        },
+        {
+          "id": 673,
+          "title": "Dilo en menos tiempo"
+        },
+        {
+          "id": 674,
+          "title": "Apps para emprendedores"
+        },
+        {
+          "id": 675,
+          "title": "Apps de encuestas y plan de negocios"
+        },
+        {
+          "id": 676,
+          "title": "Plataformas de automatización y productividad"
+        },
+        {
+          "id": 677,
+          "title": "Apps de contabilidad y gestión de proyectos"
+        },
+        {
+          "id": 678,
+          "title": "Herramientas indispensables para tu negocio"
+        },
+        {
+          "id": 679,
+          "title": "Matemáticas para emprendedores"
+        },
+        {
+          "id": 680,
+          "title": "Matemáticas para emprendedores II"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Cómo administrar equipos remotos",
+      "lessons": [
+        {
+          "id": 571,
+          "title": "Formas de mejorar la incorporación de trabajadores remotos"
+        },
+        {
+          "id": 562,
+          "title": "Define tus procedimientos de contratación e incorporación a distancia"
+        },
+        {
+          "id": 565,
+          "title": "Límites saludables para ti y tus empleados y canales de comunicación"
+        },
+        {
+          "id": 572,
+          "title": "Formas de mejorar la incorporación de trabajadores remotos II"
+        },
+        {
+          "id": 567,
+          "title": "Preguntas que se deberían hacer los líderes virtuales"
+        },
+        {
+          "id": 574,
+          "title": "Challenge"
+        },
+        {
+          "id": 563,
+          "title": "Evita la microgestión"
+        },
+        {
+          "id": 568,
+          "title": "Preguntas que se deberían hacer los líderes virtuales II"
+        },
+        {
+          "id": 564,
+          "title": "Fomenta el diálogo y escucha de manera activa"
+        },
+        {
+          "id": 569,
+          "title": "Preguntas que se deberían hacer los líderes virtuales III"
+        },
+        {
+          "id": 570,
+          "title": "Challenge"
+        },
+        {
+          "id": 561,
+          "title": "Cómo gestionar empleados remotos"
+        },
+        {
+          "id": 566,
+          "title": "Challenge"
+        },
+        {
+          "id": 573,
+          "title": "Formas de mejorar la incorporación de trabajadores remotos III"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Retos comunes",
+      "lessons": [
+        {
+          "id": 436,
+          "title": "Retos comunes"
+        },
+        {
+          "id": 437,
+          "title": "Defiende tu trabajo"
+        },
+        {
+          "id": 439,
+          "title": "Cómo demostrar tu valor al trabajar remoto"
+        },
+        {
+          "id": 440,
+          "title": "Una mejora constante"
+        },
+        {
+          "id": 441,
+          "title": "Challenge"
+        },
+        {
+          "id": 442,
+          "title": "Cómo manejar el conflicto en equipos remotos"
+        },
+        {
+          "id": 443,
+          "title": "Desafíos en relación con los canales de comunicación"
+        },
+        {
+          "id": 444,
+          "title": "¿Qué me está provocando?"
+        },
+        {
+          "id": 445,
+          "title": "Identificar lo que molesta"
+        },
+        {
+          "id": 446,
+          "title": "Challenge"
+        },
+        {
+          "id": 447,
+          "title": "Recomendaciones para que comiences ese nuevo trabajo remoto con pie derecho"
+        },
+        {
+          "id": 448,
+          "title": "La preparación es clave"
+        },
+        {
+          "id": 449,
+          "title": "Adaptándote a tu nuevo rol"
+        },
+        {
+          "id": 450,
+          "title": "Toma la iniciativa"
+        },
+        {
+          "id": 451,
+          "title": "Challenge"
+        },
+        {
+          "id": 452,
+          "title": "¿Cómo forjar relaciones con mis compañeros de trabajo remoto?"
+        },
+        {
+          "id": 454,
+          "title": "Enciende la cámara"
+        },
+        {
+          "id": 455,
+          "title": "Challenge"
+        },
+        {
+          "id": 438,
+          "title": "Challenge"
+        },
+        {
+          "id": 453,
+          "title": "Establece metas"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Ansiedad nocturna",
+      "lessons": [
+        {
+          "id": 584,
+          "title": "Challenge"
+        },
+        {
+          "id": 587,
+          "title": "Challenge"
+        },
+        {
+          "id": 586,
+          "title": "Distorsiones cognitivas II"
+        },
+        {
+          "id": 582,
+          "title": "Challenge"
+        },
+        {
+          "id": 588,
+          "title": "¡Ponte en acción para evitar preocupación!"
+        },
+        {
+          "id": 580,
+          "title": "Challenge"
+        },
+        {
+          "id": 577,
+          "title": "Challenge"
+        },
+        {
+          "id": 581,
+          "title": "Los motivos de la ansiedad nocturna III"
+        },
+        {
+          "id": 578,
+          "title": "Los motivos de la ansiedad nocturna"
+        },
+        {
+          "id": 575,
+          "title": "Introducción a la ansiedad nocturna"
+        },
+        {
+          "id": 576,
+          "title": "Introducción a la ansiedad nocturna II"
+        },
+        {
+          "id": 585,
+          "title": "Distorsiones cognitivas"
+        },
+        {
+          "id": 583,
+          "title": "Algunos efectos de la ansiedad nocturna"
+        },
+        {
+          "id": 579,
+          "title": "Los motivos de la ansiedad nocturna II"
+        }
+      ]
+    }
+  ]
+}
